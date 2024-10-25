@@ -8,6 +8,8 @@ Atividades:
 
 2 - Regressão Linear (Entregue)
 
-3 - Clusterização
+3 - Apresentacao_de_Artigo_1/2
 
-4 - AprendizadoPorReforço
+4 - Clusterização
+
+
