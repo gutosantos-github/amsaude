@@ -1,6 +1,9 @@
 **Aprendizado de Máquina na Saúde**
+
 **Professor: Flávio Luiz Seixas**
+
 **Aluno: Augusto Cesar da F. dos Santos**
+
 **Matrícula de Mestrado: M048.124.004**
 
 
