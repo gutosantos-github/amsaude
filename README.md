@@ -1,6 +1,6 @@
 **Aprendizado de Máquina na Saúde**
 
-**Professor: Flávio Luiz Seixas**
+**Professor: Pós-Doutor Flávio Luiz Seixas**
 
 **Aluno: Augusto Cesar da F. dos Santos**
 
@@ -26,27 +26,32 @@ A base de dados National Health and Nutrition Examination Survey (NHANES) conté
 Objetivo: criar um modelo de regressão linear para prever a Pressão Arterial Sistólica (PAS) a partir do Índice de Massa Corporal (IMC) e avaliar o desempenho deste modelo. Além disso, você deve interpretar os resultados obtidos, com foco na relação entre essas duas variáveis.
 
 **3 - Apresentacao_de_Artigo_1/2 (Entregue)**
+
 Apresentação em aula do artigo A Framework for Malicious Traffic Detection in IoT Healthcare Environment
 [1] - Hussain, F.; Abbas, S.G.; Shah, G.A.; Pires, I.M.; Fayyaz, U.U.; Shahzad, F.; Garcia, N.M.; Zdravevski,
 E. A Framework for Malicious Traffic Detection in IoT Healthcare Environment. Sensors 2021, 21,
 3025. https://doi.org/10.3390/s21093025
 
 **4 - Clusterização (Entregue)**
+
 Breast Cancer Wisconsin (Diagnostic) Dataset - UCI Machine Learning Repository
 
 **5 - Otimização de Tratamento de Pacientes com Diabetes usando Aprendizado por Reforço. (Não Entregue)**
+
 Desenvolver um agente de aprendizado por reforço que recomenda ações aos pacientes diabéticos para controlar seus níveis de glicose ao longo do tempo. O sistema simula o comportamento do paciente, levando em consideração diferentes variáveis, como consumo de alimentos, exercícios físicos e doses de insulina.
 
 Metodologia
 O problema pode ser modelado como um ambiente de tomada de decisão sequencial, onde cada ação do paciente (tomar insulina, comer alimentos, fazer exercício) influencia os níveis de glicose no sangue. O aprendizado por reforço será utilizado para ensinar o agente a aprender a política ótima de controle de glicose, utilizando o algoritmo Q-learning.
 
 **6 - Análise de Sobrevivência em Pacientes com Cancer de Pulmao (Não Entregue)**
+
 O foco é modelar e interpretar fatores associados à sobrevivência de pacientes com câncer de pulmão, aplicando os modelos de Weibull e Cox e realizando uma análise de decomposição.
 
 Objetivo
 Este projeto tem como objetivo analisar fatores associados à sobrevivência de pacientes com câncer de pulmão a partir do conjunto de dados cancer. Utilizando os modelos de Weibull e Cox, a análise busca identificar e interpretar os efeitos de variáveis preditoras (como idade, sexo e ingestão calórica) na sobrevivência dos pacientes, além de realizar uma decomposição para compreender a contribuição relativa de cada variável.
 
 **7 - Apresentacao_de_Artigo_2/2 (Não Entregue)**
+
 Apresentação em aula do artigoHyperDetect: A Real-Time Hyperdimensional Solution for Intrusion Detection in IoT Networks
 
 **8 - Projeto de Aplicação (Não Entregue)**
