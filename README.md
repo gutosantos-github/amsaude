@@ -36,7 +36,7 @@ E. A Framework for Malicious Traffic Detection in IoT Healthcare Environment. Se
 
 Breast Cancer Wisconsin (Diagnostic) Dataset - UCI Machine Learning Repository
 
-**5 - Otimização de Tratamento de Pacientes com Diabetes usando Aprendizado por Reforço. (Não Entregue)**
+**5 - Otimização de Tratamento de Pacientes com Diabetes usando Aprendizado por Reforço. (Entregue)**
 
 Desenvolver um agente de aprendizado por reforço que recomenda ações aos pacientes diabéticos para controlar seus níveis de glicose ao longo do tempo. O sistema simula o comportamento do paciente, levando em consideração diferentes variáveis, como consumo de alimentos, exercícios físicos e doses de insulina.
 
@@ -50,8 +50,9 @@ O foco é modelar e interpretar fatores associados à sobrevivência de paciente
 Objetivo
 Este projeto tem como objetivo analisar fatores associados à sobrevivência de pacientes com câncer de pulmão a partir do conjunto de dados cancer. Utilizando os modelos de Weibull e Cox, a análise busca identificar e interpretar os efeitos de variáveis preditoras (como idade, sexo e ingestão calórica) na sobrevivência dos pacientes, além de realizar uma decomposição para compreender a contribuição relativa de cada variável.
 
-**7 - Apresentacao_de_Artigo_2/2 (Não Entregue)**
+**7 - Apresentacao_de_Artigo_2/2 (Entregue)**
 
 Apresentação em aula do artigoHyperDetect: A Real-Time Hyperdimensional Solution for Intrusion Detection in IoT Networks
 
-**8 - Projeto de Aplicação (Não Entregue)**
+**8 - Projeto de Aplicação (Entregue)**
+Descrição realizada no Colab da aplicação. 
