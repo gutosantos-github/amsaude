@@ -6,8 +6,9 @@
 
 **Matrícula de Mestrado: M048.124.004**
 
+**Este github está disponibilizado de forma aberta porque concentra todas as atividades realizadas e entregues durante o curso de Pós-Graduação de Aprendizado de Máquina na Saúde**
 
-**Tarefas de codificação**
+**Tarefas de codificação realizadas**
 
 **Atividades:**
 
@@ -55,4 +56,6 @@ Este projeto tem como objetivo analisar fatores associados à sobrevivência de 
 Apresentação em aula do artigoHyperDetect: A Real-Time Hyperdimensional Solution for Intrusion Detection in IoT Networks
 
 **8 - Projeto de Aplicação (Entregue)**
-Descrição realizada no Colab da aplicação. 
+Descrição também realizada no Colab da aplicação. 
+O notebook disponibilidade realiza classificação utilizando modelos de aprendizado de máquina, quais sejam, Random Forest, Regressão Logística e Árvore de Decisão para classificação de um conjunto de dados utilizado para realização de um sistema de detecção de intrusão. 
+Conforme previsto na disciplina, o notebook foi apresentado em aula. 
